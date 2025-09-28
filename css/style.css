@@ -1390,7 +1390,7 @@ img {
   top: 50%;
   margin-top: -11.5px;
   right: -60px;
-  opacity: 0.5;
+  opacity: 1;
   transition: .2s ease-in-out;
 }
 .main-list-flex ul li .ico-flex:hover span:before {
@@ -1476,3 +1476,4 @@ footer {
   display: flex;
 
 }
+
