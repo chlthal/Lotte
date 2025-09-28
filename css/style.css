@@ -1394,7 +1394,7 @@ img {
   transition: .2s ease-in-out;
 }
 .main-list-flex ul li .ico-flex:hover span:before {
-  background: url(./../img/main-next_w2.png) 50% 50% no-repeat;
+  background: url(./../img/main-next_w.png) 50% 50% no-repeat;
 }
 
 
@@ -1474,4 +1474,5 @@ footer {
 
 .foot-flex {
   display: flex;
+
 }
